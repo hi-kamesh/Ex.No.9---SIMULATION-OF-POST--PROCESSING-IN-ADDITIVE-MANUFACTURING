@@ -1,6 +1,6 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 14/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -48,8 +48,8 @@
 ![Screenshot 2024-01-02 113347](https://github.com/RAGULRAAJAN/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473144/2012f841-751f-48eb-998f-df60b43ae6a5)
 
 
-### Name:RAGUL RAAJAN .T
-### Register Number:212223100043
+### Name:KAMESH S
+### Register Number:24006280
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
